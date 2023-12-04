@@ -14,11 +14,7 @@ QUIS AUTEm vel eum IURE REPREHENDERIT, qui IN ea VOLUPTATE VELIT ESSE, quam nihi
 At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias EXCEPTURI SINT, 
 OBCAECATI CUPIDITATE NON PROVIDENT, similique SUNT IN CULPA, QUI OFFICA DESERUNTMOLLITia ANIMI, ID EST LABORUM et dolorum fuga.
 
-                                                                                                                                
-                                                                                                                                —Marcus Tullius Cicero, De finibus bonorum et malorum
-
-
-
+                                                                                                                                                                                                                                          
 # Kód
 
 Kód je napsán v angličtině.
