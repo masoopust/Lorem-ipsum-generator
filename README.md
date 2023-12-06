@@ -1,6 +1,8 @@
 # Lorem-ipsum-generator
 
 Toto je kód napsaný v jazyce Python pro vytvoření Lorem Ipsum textu o vaší požadované délce.
+Pro ozvláštnění tohoto úkolu jsem se rozhodl udělat Lorem Ipsum generátor, který bude generovat náhodné věty, skládajíc se z nejznámějších
+kouzel ze světa Harryho Pottera.
 
 # Historie
 
