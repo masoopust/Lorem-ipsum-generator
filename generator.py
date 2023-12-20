@@ -9,7 +9,7 @@ wsmax = int(input("What is the maximum of words you want in one sentence? \n: ")
 text = []
 for i in range(numbsent):
     ws = random.randint(wsmin,wsmax)                                                         #words in sentence
-    sentence = " ".join(random.sample(Loremtext, ws))                                #sentence = náhodný počet slov 3-8 ze seznamu Loremtext a dá je do stringu
+    sentence = " ".join(random.sample(Loremtext, ws))                                #sentence = náhodný počet slov min-max ze seznamu Loremtext a dá je do stringu
     text.append(sentence.capitalize() + ".")                                         #První písmeno udělá velké, na konec přidá tečku a přídá do seznamu text
 
 finish = " ".join(text)
