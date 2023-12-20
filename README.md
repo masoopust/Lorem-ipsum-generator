@@ -16,18 +16,17 @@ QUIS AUTEm vel eum IURE REPREHENDERIT, qui IN ea VOLUPTATE VELIT ESSE, quam nihi
 At vero eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti atque corrupti, quos dolores et quas molestias EXCEPTURI SINT, 
 OBCAECATI CUPIDITATE NON PROVIDENT, similique SUNT IN CULPA, QUI OFFICA DESERUNTMOLLITia ANIMI, ID EST LABORUM et dolorum fuga.
 
-                                                                                                                                                                                                                                          
-# Kód
+# Jak zprovoznit program
 
-Kód je napsán v angličtině.
+1. Stáhnete si soubor loremipsumgenerator.py
+2. Spustíte jej ve vámi vybraném programu, já doporučuji Visual Studio Code, ale úplně stejně by vám měl fungovat google collab 
+3. Na začátku se vás program zeptá na počet vět, které chcete vytvořit
+4. Následně se vám vytvoří zadaný počet vět v konzoli a uloží do textového souboru.
 
-Jako první se Vás zeptá na počet vět, které chcete.
+                                                                                                                                                                                                                                           
 
-Následně vytvoří Vámi zadaný počet vět v rozsahu 3 až 8 slov (jde změnit přepsáním v kódu)
 
-Váš Lorem Ipsum text vytiskne v konzoli a zárověn Vám vytvoří textový soubor Loremipsum.txt 
 
-Ten bude uložen hned pod tento kód ve Vašem počítači.
 
 
 
