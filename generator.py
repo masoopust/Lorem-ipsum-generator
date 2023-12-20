@@ -18,7 +18,7 @@ print(finish)
 #BONUS
 
 file_name = input("This will be the name of your file : ")
-with open(file_name, "w") as file:
+with open(file_name, "w", encoding= "utf-8") as file:
     file.write(finish)
 
 print(f"Your Lorem ipsum text is also in this file : {file_name}")
