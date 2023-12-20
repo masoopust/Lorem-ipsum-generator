@@ -19,9 +19,13 @@ OBCAECATI CUPIDITATE NON PROVIDENT, similique SUNT IN CULPA, QUI OFFICA DESERUNT
 # Jak zprovoznit program
 
 1. Stáhnete si soubor generator.py
-2. Spustíte jej ve vámi vybraném programu, já doporučuji Visual Studio Code, ale úplně stejně by vám měl fungovat google collab 
-3. Na začátku se vás program zeptá na počet vět, které chcete vytvořit
-4. Následně se vám vytvoří zadaný počet vět v konzoli a uloží do textového souboru.
+2. Uložte jej do nové složky, za účelem ukládání textového dokumentu.
+3. Spustíte jej ve vámi vybraném programu, já doporučuji Visual Studio Code, ale úplně stejně by vám měl fungovat google collab.
+4. Na začátku se vás program zeptá na počet vět, které chcete vytvořit.
+5. Následně na minimum a maximum slov, které chcete mít obsaženy v jedné větě.
+6. Poté se vám vytvoří zadaný počet vět v konzoli.
+7. Program se vás zeptá na název textového souboru do kterého chcete uložit text.
+8. Textový soubor bude uložen ve složce pod programem.
 
                                                                                                                                                                                                                                            
 
