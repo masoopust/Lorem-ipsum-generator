@@ -18,7 +18,7 @@ OBCAECATI CUPIDITATE NON PROVIDENT, similique SUNT IN CULPA, QUI OFFICA DESERUNT
 
 # Jak zprovoznit program
 
-1. Stáhnete si soubor loremipsumgenerator.py
+1. Stáhnete si soubor generator.py
 2. Spustíte jej ve vámi vybraném programu, já doporučuji Visual Studio Code, ale úplně stejně by vám měl fungovat google collab 
 3. Na začátku se vás program zeptá na počet vět, které chcete vytvořit
 4. Následně se vám vytvoří zadaný počet vět v konzoli a uloží do textového souboru.
