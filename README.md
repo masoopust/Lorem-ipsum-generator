@@ -27,6 +27,10 @@ OBCAECATI CUPIDITATE NON PROVIDENT, similique SUNT IN CULPA, QUI OFFICA DESERUNT
 7. Program se vás zeptá na název textového souboru do kterého chcete uložit text.
 8. Textový soubor bude uložen ve složce pod programem.
 
+# Připomínky a chyby
+
+V případě, že byste narazili na nějakou chybu, či máte jen připomínku nebojte se mě kontaktovat zde : patrikmasopust@seznam.cz
+
                                                                                                                                                                                                                                            
 
 
